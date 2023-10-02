@@ -28,7 +28,7 @@ BlockCheck is a Motoko-based to-do list platform that leverages the blockchain t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/blockcheck.git
+    git clone https://github.com/imambujshukla7/blockcheck.git
     cd blockcheck
     ```
 
