@@ -1,0 +1,23 @@
+# Ignoring build artifacts
+*.mo~
+*.bak
+
+# Ignoring project-specific files
+/.dfx/
+/dist/
+/node_modules/
+/*.did
+
+# Ignoring environment-specific files
+/.vscode/
+/.idea/
+.DS_Store
+
+# Ignoring compiled or generated files
+/build/
+/*.wasm
+
+# Ignoring test-related artifacts
+/tests/*.mo~
+/tests/*.bak
+/tests/.dfx/
